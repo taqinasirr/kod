@@ -45,6 +45,23 @@ php artisan make:seeder LembuSeeder
 > Blockquote
 <br>
 
+> [!note]
+> Blabla
+
+> [!tip]
+> Blabla
+
+> [!important]
+> Blala
+
+> [!warning]
+> Blabla
+
+> [!caution]
+> Blabla
+
+<br><br>
+
 List
 * satu
 * dua
