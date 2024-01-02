@@ -92,10 +92,8 @@ Nested List
 - [ ] Unchecked
 - [x] Checked
 <br><br><br><br>
-> Just drag n drop vid/ pic/ gif  from computer to github markdown file
 
-
-<br><br>
+`Just drag n drop vid/ pic/ gif  from computer to github markdown file`
 
 https://github.com/taqinasirr/kod/assets/21170527/2a88d0d8-acbe-45f5-a9e5-601e2af064f7  
 
