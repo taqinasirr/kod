@@ -35,3 +35,19 @@ php artisan make:seeder LembuSeeder
 ```php
 php artisan make:seeder LembuSeeder
 ```
+
+<br>
+
+> Blockquote
+<br>
+
+List
+* satu
+* dua
+* tiga
+<br><br>
+
+Numbered List
+1. satu
+2. dua
+3. tiga
