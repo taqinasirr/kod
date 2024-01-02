@@ -2,16 +2,16 @@
 ## h2
 ###### h6
 
-*italic*
-
+*italic*   
 _italic_
 
-**bold**
-
+**bold**  
 __bold__
 
-[Link](https://google.com)
+***italic & bold***  
+___italic & bold___
 
+[Link](https://google.com)  
 [Link with tooltip](https://google.com "google website")
 
 ![Google](https://cdn.iconscout.com/icon/free/png-256/free-google-469-675753.png)
@@ -43,7 +43,6 @@ php artisan make:seeder LembuSeeder
 <br>
 
 > Blockquote
-<br>
 
 > [!note]
 > Blabla
