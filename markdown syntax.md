@@ -97,10 +97,10 @@ Nested List
 
 https://github.com/taqinasirr/kod/assets/21170527/2a88d0d8-acbe-45f5-a9e5-601e2af064f7  
 
+![mu kecek molek sikit](https://github.com/taqinasirr/kod/assets/21170527/90a93363-1f62-4c6d-8613-18356a9c04ae)
 
-<img src="https://github.com/taqinasirr/kod/assets/21170527/ed664560-6124-4101-90c6-7837313cf457" width="200">
 
-
+![typing3](https://github.com/taqinasirr/kod/assets/21170527/74174c18-f7b1-40ea-821d-643919116a92)
 
 
 
