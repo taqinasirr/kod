@@ -16,3 +16,22 @@ __bold__
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-469-675753.png" width="100" />
 
+---
+___
+
+
+```php
+    public function index(){
+        return view('lembu.index',[
+            'rows' => Lembu::all()
+        ]);
+    }
+```
+
+```
+php artisan make:seeder LembuSeeder
+```
+
+```php
+php artisan make:seeder LembuSeeder
+```
