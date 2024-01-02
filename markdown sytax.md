@@ -11,6 +11,10 @@ __bold__
 ***italic & bold***  
 ___italic & bold___
 
+~~strikethrough~~  
+:smile:
+
+
 [Link](https://google.com)  
 [Link with tooltip](https://google.com "google website")
 
@@ -20,6 +24,8 @@ ___italic & bold___
 
 ---
 ___
+
+***
 
 
 ```php
@@ -43,6 +49,9 @@ php artisan make:seeder LembuSeeder
 <br>
 
 > Blockquote
+
+> Blockquote
+>> Nested Blockquote
 
 > [!note]
 > Blabla
@@ -71,3 +80,15 @@ Numbered List
 1. satu
 2. dua
 3. tiga
+<br><br>
+
+Nested List
+1. Menu
+    * satu 
+    * dua 
+    * tiga
+<br><br>
+
+- [ ] Unchecked
+- [x] Checked
+
