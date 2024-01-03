@@ -108,6 +108,8 @@ https://github.com/taqinasirr/kod/assets/21170527/2a88d0d8-acbe-45f5-a9e5-601e2a
 | satu  | dua      |
 | tiga  | sembilan belas |
 
+<br>
+
 | Right  | Center | Left |
 | -: | :-: | :- |
 | R      | C      | L    |
