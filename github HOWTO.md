@@ -13,11 +13,11 @@ https://github.com/taqinasirr/kod/assets/21170527/88ad81ba-a7a8-401f-84f4-8eee49
 
 # create repo
 
-### 1) create repo then drag n drop files from computer to github repo
+### 1) drag n drop files from computer to github repo
 
 https://github.com/taqinasirr/kod/assets/21170527/0d4b585f-e4c7-433b-b697-959a61abba77
 
-### 1) create repo then buh files from computer to github repo using git (pakai vscode)
+### 2) buh files from computer to github repo using git (pakai vscode)
 
 https://github.com/taqinasirr/kod/assets/21170527/82ef6b4d-4ace-4bf0-8d57-e33ac50eba71
 
