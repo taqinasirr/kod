@@ -101,6 +101,17 @@ https://github.com/taqinasirr/kod/assets/21170527/2a88d0d8-acbe-45f5-a9e5-601e2a
 
 ![typing3](https://github.com/taqinasirr/kod/assets/21170527/74174c18-f7b1-40ea-821d-643919116a92)
 
+<br><br>
+
+| field1 | field2   |
+| - | - |
+| satu  | dua      |
+| tiga  | sembilan belas |
+
+| Right  | Center | Left |
+| -: | :-: | :- |
+| R      | C      | L    |
+
 <br><br><br><br>
 
 if kat `vscode`, md file tak keluar markdown snippet suggestion
