@@ -1,13 +1,22 @@
 # Clone
 
 ### 1) clone using `download ZIP`
-clone main branch or branch2 lain, sama je cara dia: 
+clone main branch or branch2 lain, sama je cara dia.  
+clone using download ZIP, kita cuma dapat branch yg kita download tu shj
 
 https://github.com/taqinasirr/kod/assets/21170527/6107f090-380f-4229-8f17-8b624591e97f
 
 ### 2) clone using command `git clone`
 
-https://github.com/taqinasirr/kod/assets/21170527/88ad81ba-a7a8-401f-84f4-8eee490de3d5
+clone using git clone, kita dapat semua branch
+
+`git branch -a`   utk tgk senarai semua branch yg ada
+
+`git checkout namaBranch`    utk checkout to that branch
+
+https://github.com/taqinasirr/kod/assets/21170527/f97b7810-f3c8-45fc-aa38-695de8b5b38f
+
+
 
 <br>
 
