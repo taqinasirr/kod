@@ -16,8 +16,7 @@ step
 * git clone pastelinkremote
 
 
-
-using command `git clone` kita dapat clone a repository. so dapat semua branch
+clone using command `git clone` kita dapat clone a repository. so dapat semua branch
 
 `git branch`    show local (current) branch  
 `git branch -r`   show all remote branches  
@@ -25,7 +24,9 @@ using command `git clone` kita dapat clone a repository. so dapat semua branch
 
 `git checkout namaBranch`    utk checkout to that branch
 
-> folder yg di clone tu automatic dah set origin sebgai alias kpd remote. so takyah `git remote add origin linkremote`
+<br>
+
+> local folder yg di clone tu automatic dah set origin sebgai alias kpd remote. so takyah `git remote add origin linkremote`
 
 https://github.com/taqinasirr/kod/assets/21170527/f97b7810-f3c8-45fc-aa38-695de8b5b38f
 
@@ -39,6 +40,13 @@ https://github.com/taqinasirr/kod/assets/21170527/f97b7810-f3c8-45fc-aa38-695de8
 https://github.com/taqinasirr/kod/assets/21170527/0d4b585f-e4c7-433b-b697-959a61abba77
 
 ### 2) push local files to repo pakai vscode
+
+step
+* create repo
+* git init
+* git remote add origin linkremote
+* commit changes
+* push local files to repo
 
 https://github.com/taqinasirr/kod/assets/21170527/82ef6b4d-4ace-4bf0-8d57-e33ac50eba71
 
