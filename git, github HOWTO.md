@@ -37,6 +37,11 @@ https://github.com/taqinasirr/kod/assets/21170527/f97b7810-f3c8-45fc-aa38-695de8
 
 ### 1) drag n drop local files to github repo
 
+step
+* create repo
+* drag n drop
+* commit
+
 https://github.com/taqinasirr/kod/assets/21170527/0d4b585f-e4c7-433b-b697-959a61abba77
 
 ### 2) push local files to repo pakai vscode
