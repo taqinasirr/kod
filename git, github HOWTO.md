@@ -68,7 +68,7 @@ https://github.com/taqinasirr/kod/assets/21170527/39d1381b-3427-4a56-835f-4ddc56
 
 <br><br>
 
-# `Git using vscode`
+# `VS Code`
 
 <br>
 
@@ -82,6 +82,12 @@ vscode sendiri yg akan add untracked files to staging area
 
 
 https://github.com/taqinasirr/kod/assets/21170527/6776a90b-8d36-4d23-9e62-fca408f53a21
+
+<br>
+
+what does synchronize changes do
+1. pull remote changes down to your local repo
+2. push local commits to remote
 
 
 
