@@ -54,16 +54,6 @@ https://github.com/taqinasirr/kod/assets/21170527/82ef6b4d-4ace-4bf0-8d57-e33ac5
 
 https://github.com/taqinasirr/kod/assets/21170527/23e07794-cc03-4329-a0d4-14159496db9d
 
-<br>
-
-## Remote
-
-`git branch -r`   utk tgk senarai semua remote branch yg ada  
-`git checkout namaBranch`    utk checkout to that branch
-
-https://github.com/taqinasirr/kod/assets/21170527/39d1381b-3427-4a56-835f-4ddc5658cea1
-
-
 
 
 <br><br>
