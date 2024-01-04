@@ -106,13 +106,15 @@ https://github.com/taqinasirr/kod/assets/21170527/ab90bb15-c746-4bf4-8a4a-7aeb4a
 
 # `Git`
 
+### Jump to specific commit
+
 `git log`  show commit history  
 `git log --oneline`  show commit history.  shorter version  
 `git checkout xxxxxxx` go to commit xxxxxxx  
 `git checkout namaBranch`   go to lastest commit pada branch tree
 
 cth ada 5 commit  
-chekcout to 1st commit, bila git log, dia hanya tunjuk 1 commit je. sebab waktu tu belum 5 commit.  
+checkout to 1st commit, bila git log, dia hanya tunjuk 1 commit je. sebab waktu tu belum 5 commit.  
 so utk ke commit ke 5, pakai git checkout namaBranch
 
 https://github.com/taqinasirr/kod/assets/21170527/16d67704-c851-44b5-ab72-5179e87f29a9
