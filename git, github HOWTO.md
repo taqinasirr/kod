@@ -87,6 +87,11 @@ berlaku pull & push
 
 https://github.com/taqinasirr/kod/assets/21170527/1f3af76e-bd6a-4404-96f8-ff34d1710911
 
+<br>
+
+commit options
+
+<img src = "https://github.com/taqinasirr/kod/assets/21170527/23c97d74-ebd5-4cec-8306-cd5d3a39e59c" width="500">
 
 
 
