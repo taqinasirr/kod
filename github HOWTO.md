@@ -13,7 +13,9 @@ https://github.com/taqinasirr/kod/assets/21170527/6107f090-380f-4229-8f17-8b6245
 
 using command `git clone` kita dapat clone a repository. so dapat semua branch
 
-`git branch -a`   utk tgk senarai semua branch yg ada
+`git branch`    show local (current) branch  
+`git branch -r`   show all remote branches  
+`git branch -a` show local (current) branch and all remote branches
 
 `git checkout namaBranch`    utk checkout to that branch
 
