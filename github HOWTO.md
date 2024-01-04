@@ -11,6 +11,12 @@ https://github.com/taqinasirr/kod/assets/21170527/6107f090-380f-4229-8f17-8b6245
 
 ### 2) clone a repository
 
+step
+* copylinkremote
+* git clone pastelinkremote
+
+
+
 using command `git clone` kita dapat clone a repository. so dapat semua branch
 
 `git branch`    show local (current) branch  
