@@ -93,6 +93,13 @@ commit options
 
 <img src = "https://github.com/taqinasirr/kod/assets/21170527/23c97d74-ebd5-4cec-8306-cd5d3a39e59c" width="500">
 
+<br><br>
+
+Git commands
+
+https://github.com/taqinasirr/kod/assets/21170527/ab90bb15-c746-4bf4-8a4a-7aeb4a0b9223
+
+
 
 
 
