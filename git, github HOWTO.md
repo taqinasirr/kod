@@ -110,6 +110,16 @@ cuma files ni dlm bentuk commit lah.
 u can jump to any commit
 
 
+git log
+git log --oneline
+git checkout
+git chaeckout namaBranch   go to lastest commit pada branch tree
+
+cth ada 5 commit  
+chekcout to 1st commit, bila git log, dia hanya tunjuk 1 commit je. sebab waktu tu belum 5 commit.  
+so utk ke commit ke 5, pakai git checkout namaBranch
+
+
 
 
 
