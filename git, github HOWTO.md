@@ -85,9 +85,15 @@ https://github.com/taqinasirr/kod/assets/21170527/6776a90b-8d36-4d23-9e62-fca408
 
 <br>
 
-what does synchronize changes do
+synchronize changes = apa yg ada kat branch remote sebijik mcm apa yg ada kat branch local  
+so, berlaku pull & push  
 1. pull remote changes down to your local repo
 2. push local commits to remote
+
+https://github.com/taqinasirr/kod/assets/21170527/1f3af76e-bd6a-4404-96f8-ff34d1710911
+
+
+
 
 
 
