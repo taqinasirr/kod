@@ -3,15 +3,15 @@
 
 ## Clone
 
-### 1) clone using `download ZIP`
-clone main branch or branch2 lain, sama je cara dia.  
-clone using download ZIP, kita cuma dapat branch yg kita download tu shj
+### 1) clone a branch 
+clone using `download ZIP` kita cuma dapat branch yg kita download tu shj  
+clone main branch or branch2 lain, sama je cara dia. 
 
 https://github.com/taqinasirr/kod/assets/21170527/6107f090-380f-4229-8f17-8b624591e97f
 
-### 2) clone using command `git clone`
+### 2) clone a repository
 
-clone using git clone, kita dapat semua branch
+using command `git clone` kita dapat clone a repository. so dapat semua branch
 
 `git branch -a`   utk tgk senarai semua branch yg ada
 
