@@ -25,7 +25,7 @@ using command `git clone` kita dapat clone a repository. so dapat semua branch
 
 `git checkout namaBranch`    utk checkout to that branch
 
-> folder yg di clone tu automatic dah set origin sebgai alias kpd remote. so takyah `git remote add  origin linkremote`
+> folder yg di clone tu automatic dah set origin sebgai alias kpd remote. so takyah `git remote add origin linkremote`
 
 https://github.com/taqinasirr/kod/assets/21170527/f97b7810-f3c8-45fc-aa38-695de8b5b38f
 
