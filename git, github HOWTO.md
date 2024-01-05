@@ -108,9 +108,8 @@ symbols
 ![git status bar - publish and synchronize](https://github.com/taqinasirr/kod/assets/21170527/81f26a02-bdaf-4c53-983f-bcfed5fd6809)
 
 
-![vscode untracked files, added to staging area](https://github.com/taqinasirr/kod/assets/21170527/d8800561-b0ad-4572-ae1c-cd9eb8ecac75)
+![untracked, modified](https://github.com/taqinasirr/kod/assets/21170527/9078bb73-e51e-4262-9b23-6bb63485c5e5)
 
-![untracked, modified](https://github.com/taqinasirr/kod/assets/21170527/2aaed3a1-c804-4224-aa19-f07905024b34)
 
 
 
