@@ -65,6 +65,8 @@ https://github.com/taqinasirr/kod/assets/21170527/23e07794-cc03-4329-a0d4-141594
 
 # `VS Code`
 
+https://code.visualstudio.com/docs/sourcecontrol/overview
+
 <br>
 
 boleh terus commit.  
@@ -95,9 +97,20 @@ commit options
 
 <br><br>
 
-Git commands
+pilihan Git commands
 
 https://github.com/taqinasirr/kod/assets/21170527/ab90bb15-c746-4bf4-8a4a-7aeb4a0b9223
+
+<br>
+
+symbols
+
+![git status bar - publish and synchronize](https://github.com/taqinasirr/kod/assets/21170527/81f26a02-bdaf-4c53-983f-bcfed5fd6809)
+
+
+![vscode untracked files, added to staging area](https://github.com/taqinasirr/kod/assets/21170527/d8800561-b0ad-4572-ae1c-cd9eb8ecac75)
+
+![untracked, modified](https://github.com/taqinasirr/kod/assets/21170527/2aaed3a1-c804-4224-aa19-f07905024b34)
 
 
 
