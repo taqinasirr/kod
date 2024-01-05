@@ -140,13 +140,13 @@ https://github.com/taqinasirr/kod/assets/21170527/16d67704-c851-44b5-ab72-5179e8
  fungsi branchX adalah supaya tak kacau main branch.  
  
  kat branch, ada file makan.html    dlm dia tulis ni:  
-   <p>saya suka makan </p>
+   ```<p>saya suka makan </p>```
    
  kat branchX aku ubah dia jadi    
-   <p>saya suka makan nasik ayam</p>
+   ```<p>saya suka makan nasik ayam</p>```
    
  kat main branch pulak berlaku perubahan dia jadi  
-   <p>saya suka makan nasik lembu</p>
+   ```<p>saya suka makan nasik lembu</p>```
    
  bila aku nak merge branchX dgn main branch, terminal bagitau merge conflict in makan.html    
  pastu kat belah kanan tu dia tulis (main|MERGING)  
