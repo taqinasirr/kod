@@ -154,7 +154,8 @@ https://github.com/taqinasirr/kod/assets/21170527/16d67704-c851-44b5-ab72-5179e8
    
  bila bukak makan.html tu, dia jadi gini:  
  
- ```<<<<<<< HEAD
+ ```
+  <<<<<<< HEAD
   <p>saya suka makan nasik lembu</p>
   =======
   <p>saya suka makan nasik ayam</p>
