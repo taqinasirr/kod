@@ -135,7 +135,7 @@ https://github.com/taqinasirr/kod/assets/21170527/16d67704-c851-44b5-ab72-5179e8
 
 ### merge conflict:  
  ada main branch  
- create branch branchX  
+ create branch bernama branchX  
  katalah branchX ni adalah copy kpd main branch.  
  fungsi branchX adalah supaya tak kacau main branch.  
  
