@@ -131,7 +131,42 @@ so utk ke commit ke 5, pakai git checkout namaBranch
 
 https://github.com/taqinasirr/kod/assets/21170527/16d67704-c851-44b5-ab72-5179e87f29a9
 
+<br>
 
+### merge conflict:  
+ ada main branch  
+ create branch branchX  
+ katalah branchX ni adalah copy kpd main branch.  
+ fungsi branchX adalah supaya tak kacau main branch.  
+ 
+ kat branch, ada file makan.html    dlm dia tulis ni:  
+   <p>saya suka makan </p>
+   
+ kat branchX aku ubah dia jadi    
+   <p>saya suka makan nasik ayam</p>
+   
+ kat main branch pulak berlaku perubahan dia jadi  
+   <p>saya suka makan nasik lembu</p>
+   
+ bila aku nak merge branchX dgn main branch, terminal bagitau merge conflict in makan.html    
+ pastu kat belah kanan tu dia tulis (main|MERGING)  
+ maksudnya kita bukan kat branchX, bukan kat main branch. tapi kat branch merging yg belum selesai.  
+   
+ bila bukak makan.html tu, dia jadi gini:  
+ 
+ ```<<<<<<< HEAD
+  <p>saya suka makan nasik lembu</p>
+  =======
+  <p>saya suka makan nasik ayam</p>
+  >>>>>>> branchX
+```
+
+katalah kita nak yg branchX tu. so, just delete benda yg tak berkaitan. so jadi gini
+   ```
+   <p>saya suka makan nasik ayam</p>
+   ```
+   
+then, just commit mcm biasa. so kita berjaya lah merge branchX dgn main branch
 
 
 
