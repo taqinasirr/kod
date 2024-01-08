@@ -35,7 +35,7 @@ https://github.com/taqinasirr/kod/assets/21170527/f97b7810-f3c8-45fc-aa38-695de8
 
 ## Repository
 
-### 1) drag n drop local files to github repo
+### 1) Drag n drop local files to github repo
 
 step
 * create repo
@@ -44,7 +44,7 @@ step
 
 https://github.com/taqinasirr/kod/assets/21170527/0d4b585f-e4c7-433b-b697-959a61abba77
 
-### 2) push local files to repo pakai vscode
+### 2) Push local files to repo pakai vscode
 
 step
 * create repo
@@ -55,7 +55,7 @@ step
 
 https://github.com/taqinasirr/kod/assets/21170527/82ef6b4d-4ace-4bf0-8d57-e33ac50eba71
 
-### 3) delete repo
+### 3) Delete repo
 
 https://github.com/taqinasirr/kod/assets/21170527/23e07794-cc03-4329-a0d4-14159496db9d
 
@@ -91,19 +91,19 @@ https://github.com/taqinasirr/kod/assets/21170527/1f3af76e-bd6a-4404-96f8-ff34d1
 
 <br>
 
-commit options
+Commit options
 
 <img src = "https://github.com/taqinasirr/kod/assets/21170527/23c97d74-ebd5-4cec-8306-cd5d3a39e59c" width="800">
 
 <br><br>
 
-pilihan Git commands
+Pilihan Git commands
 
 https://github.com/taqinasirr/kod/assets/21170527/ab90bb15-c746-4bf4-8a4a-7aeb4a0b9223
 
 <br>
 
-symbols
+Symbols
 
 ![git status bar - publish and synchronize](https://github.com/taqinasirr/kod/assets/21170527/81f26a02-bdaf-4c53-983f-bcfed5fd6809)
 
@@ -155,7 +155,7 @@ git
 
 <br>
 
-### how to git ignore
+### How to git ignore
 
 create file `.gitignore`, buh kat root directory.
 dlm file tu:
@@ -185,7 +185,7 @@ https://github.com/taqinasirr/kod/assets/21170527/16d67704-c851-44b5-ab72-5179e8
 
 <br>
 
-### merge conflict:  
+### Merge conflict:  
  ada main branch  
  create branch bernama branchX  
  katalah branchX ni adalah copy kpd main branch.  
