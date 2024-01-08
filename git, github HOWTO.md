@@ -125,7 +125,7 @@ git
   --version atau -v
   config 
     --global user.name namakau              //identify yourself (to track who made change)
-    --global user.email emailkau            // identify yourself (to track who made change)
+    --global user.email emailkau            //identify yourself (to track who made change)
 	user.name                               //show nama user
 	user.email                              //show email user
   init
@@ -137,7 +137,7 @@ git
   rm --cached index.html                    //remove from staging area	
   commit -m 'message disini'                //commit with messages
   log                                       //show all commit, commit id, who made the commit, date&time of commit,commit msg
-  log --oneline                             // show all commit, shortened commit id, commit message
+  log --oneline                             //show all commit, shortened commit id, commit message
   checkout 
     5ab48ca                                 //go to commit with that shortened id
     main                                    //switch to main branch
