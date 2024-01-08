@@ -118,11 +118,23 @@ Symbols
 
 # `Git`
 
-![git workflow](https://github.com/taqinasirr/kod/assets/21170527/70b9856f-97bd-40aa-8c28-315c2949e381)
+<img src = 'https://github.com/taqinasirr/kod/assets/21170527/70b9856f-97bd-40aa-8c28-315c2949e381' width ='500'>  
+<br><br><br>
 
-![asdf](https://github.com/taqinasirr/kod/assets/21170527/92b4ae17-0637-47ee-aefd-012733d18962)
+```php
+ git fetch  //copies commit from remote (online repo) into local repository  
+ git pull   //copies commit from remote into local reopository & working directory  
+ git pull vs pull request  //pull dgn pull request takde kaitan mart...
+ //Pull request is a process for a developer to notify team members that they have completed a feature.
+ git stash  // cth kita dari branchX nak tukar ke main branch tanpa commit. git tak bagi.
+            //git suruh commit or buat stash
+            //stash = save apa benda yg kita tgh buat kat branch tu, tanpa commit
+```
+<br><br><br>
 
-![gfdr](https://github.com/taqinasirr/kod/assets/21170527/3f5b7b75-b2d6-46a2-ae93-90bb531d5f8c)
+<img src = 'https://github.com/taqinasirr/kod/assets/21170527/92b4ae17-0637-47ee-aefd-012733d18962' width ='500'>\  
+<br><br><br>
+<img src = 'https://github.com/taqinasirr/kod/assets/21170527/3f5b7b75-b2d6-46a2-ae93-90bb531d5f8c' width ='500'>
 
 
 <br>
