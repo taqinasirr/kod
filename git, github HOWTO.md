@@ -1,6 +1,39 @@
 # `Github`
 <br>
 
+
+git
+  &nbsp;--version atau -v
+  &nbsp;config 
+    &nbsp;&nbsp;--global user.name namakau              //identify yourself (to track who made change)
+    &nbsp;&nbsp;--global user.email emailkau            // identify yourself (to track who made change)
+	&nbsp;user.name                               //show nama user
+	&nbsp;user.email                              //show email user
+  &nbsp;init
+  &nbsp;status                                    //show branch, changes to be commit , untracked files
+  &nbsp;add 
+    &nbsp;&nbsp;index.html                              //add file to staging area.
+    &nbsp;&nbsp;index.html style.css script.js          //add multiple files
+    &nbsp;&nbsp;.                                       //add all files to staging area.
+  &nbsp;rm --cached index.html                    //remove from staging area	
+  &nbsp;commit -m 'message disini'                //commit with messages
+  &nbsp;log                                       //show all commit, commit id, who made the commit, date and time of commit,commit message
+  &nbsp;log --oneline                             // show all commit, shortened commit id, commit message
+  &nbsp;checkout 
+    &nbsp;&nbsp;5ab48ca                                 //go to commit with that shortened id
+    &nbsp;&nbsp;main                                    //switch to main branch
+    &nbsp;&nbsp;branch1                                 //switch to branch1 (branch1 dah wujud)
+	   &nbsp;&nbsp;-b branch1                              //create branch1 and switch to that branch
+  branch 
+    branch1                                 //create branch1
+    -d branch1                              //delete branch1. pastikan berada kat branch lain sblum delete branch1
+    -a                                      //show all branches  
+  merge branch1                             //merge branch1 dgn main branch. pastikan berada kat main branch sblum merge
+  remote                                    //show all remote yg ada
+  remote -v                                 //show all remote punya url
+
+  
+
 ## Clone
 
 ### 1) clone a branch using `download ZIP`
@@ -117,6 +150,12 @@ symbols
 
 
 # `Git`
+
+### Git commands
+
+
+
+<br>
 
 ### Jump to specific commit
 
