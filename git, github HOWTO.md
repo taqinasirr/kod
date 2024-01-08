@@ -118,6 +118,15 @@ Symbols
 
 # `Git`
 
+![git workflow](https://github.com/taqinasirr/kod/assets/21170527/70b9856f-97bd-40aa-8c28-315c2949e381)
+
+![asdf](https://github.com/taqinasirr/kod/assets/21170527/92b4ae17-0637-47ee-aefd-012733d18962)
+
+![gfdr](https://github.com/taqinasirr/kod/assets/21170527/3f5b7b75-b2d6-46a2-ae93-90bb531d5f8c)
+
+
+<br>
+
 ### Git commands
 
 ```php
