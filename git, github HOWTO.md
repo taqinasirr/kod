@@ -3,13 +3,13 @@
 
 ## Clone
 
-### 1) clone a branch using `download ZIP`
-clone using `download ZIP` kita cuma dapat branch yg kita download tu shj  
+### 1) Clone a branch using `download ZIP`
+clone using `download ZIP` kita cuma dapat branch yg kita download tu shj. sebab x pakai git  
 clone main branch or branch2 lain, sama je cara dia. 
 
 https://github.com/taqinasirr/kod/assets/21170527/6107f090-380f-4229-8f17-8b624591e97f
 
-### 2) clone a repository using `git clone`
+### 2) Clone a repository using `git clone`
 
 step
 * copylinkremote
