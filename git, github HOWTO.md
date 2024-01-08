@@ -155,6 +155,21 @@ git
 
 <br>
 
+### how to git ignore
+
+create file `.gitignore`, buh kat root directory.
+dlm file tu:
+```php
+  /ayam           //ignore folder ayam kat root directory shj
+  ayam/           //ignore folder ayam kat semua directory
+  /ayam.txt       //ignore file ayam.txt kat root directory shj
+  ayam.txt        //ignore file ayam.txt kat semua directory
+  /*.txt          //ignore all text file kat root directory shj
+  *.txt           //ignore all text file kat semua directory
+```
+
+<br>
+
 ### Jump to specific commit
 
 `git log`  show commit history  
