@@ -136,7 +136,7 @@ Symbols
  //Pull request is a process for a developer to notify team members that they have completed a feature.
  git stash  // cth kita dari branchX nak tukar ke main branch tanpa commit. git tak bagi.
             //git suruh commit or buat stash dulu
-            //stash = save apa benda yg kita tgh buat kat branch tu, tanpa commit
+            //stash = save apa benda yg kita tgh buat kat branchX, tanpa commit
 ```
 
 
