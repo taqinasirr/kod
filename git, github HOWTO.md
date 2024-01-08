@@ -26,7 +26,7 @@ clone using command `git clone` kita dapat clone a repository. so dapat semua br
 
 <br>
 
-> local folder yg di clone tu automatic dah set origin sebgai alias kpd remote. so takyah `git remote add origin linkremote`
+> *local folder yg di clone tu automatic dah set origin sebgai alias kpd remote. so takyah `git remote add origin linkremote`*
 
 https://github.com/taqinasirr/kod/assets/21170527/f97b7810-f3c8-45fc-aa38-695de8b5b38f
 
@@ -53,6 +53,9 @@ step
 * commit changes
 * push local files to romote
 
+ > *remote = online repo. dlm kes ni, remote = github repo*
+ 
+
 https://github.com/taqinasirr/kod/assets/21170527/82ef6b4d-4ace-4bf0-8d57-e33ac50eba71
 
 ### 3) Delete github repo
@@ -73,8 +76,8 @@ boleh terus commit.
 vscode sendiri yg akan add untracked files to staging area
 
 
-> Untracked files - files yg takdak kat staging area. (git tak tau dia wujud)  
-> tracked files - files yg ada kat staging area. (git tau dia wujud)
+> *Untracked files - files yg takdak kat staging area. (git tak tau dia wujud)*  
+> *tracked files - files yg ada kat staging area. (git tau dia wujud)*
 
 
 
