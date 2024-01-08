@@ -126,8 +126,8 @@ git
   config 
     --global user.name namakau              //identify yourself (to track who made change)
     --global user.email emailkau            //identify yourself (to track who made change)
-	user.name                               //show nama user
-	user.email                              //show email user
+    user.name                               //show nama user
+    user.email                              //show email user
   init
   status                                    //show branch, changes to be commit , untracked files
   add 
@@ -142,7 +142,7 @@ git
     5ab48ca                                 //go to commit with that shortened id
     main                                    //switch to main branch
     branch1                                 //switch to branch1 (branch1 dah wujud)
-	-b branch1                              //create branch1 and switch to that branch
+    -b branch1                              //create branch1 and switch to that branch
   branch 
     branch1                                 //create branch1
     -d branch1                              //delete branch1. pastikan berada kat branch lain sblum delete branch1
