@@ -44,18 +44,18 @@ step
 
 https://github.com/taqinasirr/kod/assets/21170527/0d4b585f-e4c7-433b-b697-959a61abba77
 
-### 2) Push local files to repo pakai vscode
+### 2) Push local files to remote pakai vscode
 
 step
 * create repo
 * git init
 * git remote add origin linkremote
 * commit changes
-* push local files to repo
+* push local files to romote
 
 https://github.com/taqinasirr/kod/assets/21170527/82ef6b4d-4ace-4bf0-8d57-e33ac50eba71
 
-### 3) Delete repo
+### 3) Delete github repo
 
 https://github.com/taqinasirr/kod/assets/21170527/23e07794-cc03-4329-a0d4-14159496db9d
 
