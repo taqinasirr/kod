@@ -255,7 +255,10 @@ katalah kita nak yg branchX tu. so, just delete benda yg tak berkaitan. so jadi 
    ```
    <p>saya suka makan nasik ayam</p>
    ```
-   
+(*nak buh selain drpd tu pun boleh. cthnya 'saya suka nasik biawak'*)
+
+<br>
+
 then, just commit mcm biasa. so kita berjaya lah merge branchX dgn main branch
 
 
