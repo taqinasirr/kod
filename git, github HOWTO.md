@@ -170,7 +170,7 @@ git
     main                                    //switch to main branch
     branch1                                 //switch to branch1 (branch1 dah wujud)
     -b branch1                              //create branch1 and switch to that branch
-  branch 
+  branch                                    //show current branch
     branch1                                 //create branch1
     -d branch1                              //delete branch1. pastikan berada kat branch lain sblum delete branch1
     -a                                      //show all branches  
