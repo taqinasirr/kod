@@ -100,7 +100,7 @@ Commit options
 
 <br><br>
 
-Pilihan Git commands
+Command options
 
 https://github.com/taqinasirr/kod/assets/21170527/ab90bb15-c746-4bf4-8a4a-7aeb4a0b9223
 
