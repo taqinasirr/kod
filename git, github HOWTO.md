@@ -212,6 +212,16 @@ https://github.com/taqinasirr/kod/assets/21170527/16d67704-c851-44b5-ab72-5179e8
 
 <br>
 
+### Checkout branch
+
+https://github.com/taqinasirr/kod/assets/21170527/ba0412ce-d156-4353-a73a-435947a7af03
+
+
+
+
+
+<br>
+
 ### Merge conflict:  
  ada main branch  
  create branch bernama branchX  
