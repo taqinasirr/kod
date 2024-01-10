@@ -21,12 +21,17 @@ cara baca version package yg diperlukan
 1. Processes dependencies from the composer.json file (installs, updates and removes).
 2. Creates or updates the composer.lock file according to the changes.
 
+<br><br>
 
-> senang cerita:
-> composer install - install packages kat composer.lock
-> composer update - install packages (versi latest) kat composer.json.  pastu update versi latest kat composer.lock
+> senang cerita:  
+> composer install - install dependencies kat composer.lock  
+> composer update - install dependencies (versi latest) kat composer.json.  pastu update versi latest tu kat composer.lock
+
+<br>
 
 ---
+
+<br><br>
 fungsi composer.lock
 * supaya bila kita share project kita, org lain akan install packages versi yg sama.
 * so org tu boleh run project kita tanpa masalah packages n dependencies yg x sama version.
