@@ -21,3 +21,6 @@ java is platform independent ( u can run java program on any machine)
 * Java code --> javac (compiler) --> byte code
 * JVM tu yg akan run main() method
 * bila run Hello.java, javac akan compile dia jadi bytecode. so, Hello.class akan otomatik muncul. (Hello.class tu adalah byte code)
+* JVM is part of JRE
+* javac is only for developlemt purpose
+* rumusan - dlm JDK ada JRE.  dlm JRE ada JVM
