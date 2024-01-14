@@ -11,6 +11,7 @@ JDK
 commands
 * java --version   //show java version
 * javac --version  //show java compiler version
+* javac Hello.java  //compile Hello.java.  so nanti akan muncul file hasil drpd compile iaitu Hello.class  (ni adalah byte code, yakni language yg JVM faham)
 * java Hello   //run file Hello.java   //Hello adalah nama class kat file Hello.java.  dlm class tu ada main()
 
 
