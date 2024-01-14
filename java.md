@@ -11,3 +11,10 @@ JDK
 commands
 * java --version   //show java version
 * javac --version  //show java compiler version
+
+
+java is platform independent ( u can run java program on any machine)
+* but that machine need to have JVM
+* JVM itself is platform dependent. cth, u cant run JVM on ios
+* JVM only understand byte code
+* Java code --> javac (compiler) --> byte code
