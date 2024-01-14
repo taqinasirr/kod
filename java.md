@@ -18,3 +18,4 @@ java is platform independent ( u can run java program on any machine)
 * JVM itself is platform dependent. cth, u cant run JVM on ios
 * JVM only understand byte code
 * Java code --> javac (compiler) --> byte code
+* JVM akan run main() method
