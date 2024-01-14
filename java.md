@@ -6,3 +6,4 @@ JDK
 * has java runtime environment
 * Java SE = java standard edition. (google oracle java se utk download dia) (java SE tu dlm dia ada JDK)
 * download code editor - intelliJ idea community edition (free)
+* pake vscode pub boleh martt
