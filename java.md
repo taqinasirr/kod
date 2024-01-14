@@ -11,6 +11,7 @@ JDK
 commands
 * java --version   //show java version
 * javac --version  //show java compiler version
+* java Hello   //run file Hello.java   //Hello adalah nama class kat file Hello.java.  dlm class tu ada main()
 
 
 java is platform independent ( u can run java program on any machine)
