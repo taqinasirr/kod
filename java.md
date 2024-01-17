@@ -37,6 +37,7 @@ data type
       * short  - 2 byte
       * int    - 4 bytes
       * long   - 8 bytes
+          1. `long l = 5854l;`
   3. float
       * float  - 4 bytes
          1. `float num = 5.6f;`
@@ -46,5 +47,6 @@ data type
   7. boolean
        * true or false shj
        * tak pakai 1 utk true, 0 utk false.
+       * `boolean b = true;`
 
 
