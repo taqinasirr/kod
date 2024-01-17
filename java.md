@@ -29,7 +29,19 @@ java is platform independent ( u can run java program on any machine)
 
 java
 * strongly typed language
-  1. int  -1 0 1
-  2. 
+
+data type
+* primitive
+  1. integer
+      * int
+      * byte
+      * short
+      * long
+  3. float
+      * float
+      * double
+  5. char
+  6. boolean
+       * true or false
 
 
