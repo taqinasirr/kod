@@ -41,8 +41,10 @@ data type
       * float  - 4 bytes
          1. `float num = 5.6f;`
       * double - 8 bytes 
-  5. char
-  6. boolean
-       * true or false
+  5. char  - 2 bytes
+        * `char x = 'b';`
+  7. boolean
+       * true or false shj
+       * tak pakai 1 utk true, 0 utk false.
 
 
