@@ -49,4 +49,5 @@ data type
        * tak pakai 1 utk true, 0 utk false.
        * `boolean b = true;`
 
-
+ternary operater (cara shorcut tulis if else)
+* `jenisBadan = beratlebih60kg ? gemoy : kurus;`
