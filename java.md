@@ -39,6 +39,7 @@ data type
       * long   - 8 bytes
   3. float
       * float  - 4 bytes
+         1. `float num = 5.6f;`
       * double - 8 bytes 
   5. char
   6. boolean
