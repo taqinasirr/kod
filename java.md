@@ -50,4 +50,4 @@ data type
        * `boolean b = true;`
 
 ternary operater (cara shorcut tulis if else)
-* `jenis = lebih100kg ? berat : ringan;`
+* `jenis = lebih5kg ? berat : ringan;`
