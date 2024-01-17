@@ -26,3 +26,10 @@ java is platform independent ( u can run java program on any machine)
 * JVM is part of JRE
 * javac is only for developlemt purpose
 * rumusan - dlm JDK ada JRE.  dlm JRE ada JVM
+
+java
+* strongly typed language
+  1. int  -1 0 1
+  2. 
+
+
