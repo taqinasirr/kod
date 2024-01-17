@@ -33,13 +33,13 @@ java
 data type
 * primitive
   1. integer
-      * int
-      * byte
-      * short
-      * long
+      * byte   - 1 byte
+      * short  - 2 byte
+      * int    - 4 bytes
+      * long   - 8 bytes
   3. float
-      * float
-      * double
+      * float  - 4 bytes
+      * double - 8 bytes 
   5. char
   6. boolean
        * true or false
